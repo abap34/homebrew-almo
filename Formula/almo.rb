@@ -1,8 +1,8 @@
 class Almo < Formula
     desc "Markdown transpiler which can be converted to HTML included with execution and judging environments"
     homepage ""
-    url "https://github.com/abap34/ALMO/releases/download/v0.4.0-alpha/almo"
-    sha256 "894d3d91443669bcd9c73e9c4a172ec8d5dec0724dc70966fb9d0bdc15fec2ad"
+    url "https://github.com/abap34/ALMO/releases/download/v0.5.1-alpha/almo"
+    sha256 "bb77f3d27396f3b0d3bc9d9738a58a3d0e287feacb555eeb2a12bf5aed4faa8e"
     license "MIT"
   
     def install
